@@ -58,7 +58,7 @@ app/src/main/assets/hazardmodel.onnx
 ### IMAGES
 
 ![image alt](https://github.com/Vansh-2604/HazardDetectionApp/blob/d11431689337318b1262ea1a717691cf948de4fd/ss1.jpg)
-![image alt]()
+![image alt](https://github.com/Vansh-2604/HazardDetectionApp/blob/4cdca6c098c9096fd523ee7ce976ac9bab074244/ss2.jpg)
 
 
 
