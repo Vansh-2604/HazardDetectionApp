@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31770045144",
+    "project_id": "road-hazard-app-a7900",
+    "storage_bucket": "road-hazard-app-a7900.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31770045144:android:f814b9879ffe5f1ecd85ad",
+        "android_client_info": {
+          "package_name": "com.example.hazarddetectionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt4FdFMOlrpuHuJag8BbumIYA6-AVuIpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

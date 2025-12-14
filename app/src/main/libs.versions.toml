@@ -1,0 +1,14 @@
+toml
+[versions]
+agp = "8.13.1"
+kotlin = "2.0.21"
+# ... other versions
+firebaseBom = "33.2.1" # Add this line
+
+[libraries]
+# ... other libraries
+firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebaseBom" } # Add this line
+firebase-firestore-ktx = { group = "com.google.firebase", name = "firebase-firestore-ktx" } # Add this line
+
+[plugins]
+# ...
