@@ -1,12 +1,12 @@
 # 🚧 Hazard Detection Android App
 
-A real-time **road hazard detection Android application** that identifies **potholes and speed breakers** using a **YOLOv8 deep learning model**.  
-The app captures live camera frames, performs on-device inference, and stores hazard locations using **GPS and Firebase**.
+A real-time **road hazard detection Android application** that identifies **potholes and speed breakers** using a **YOLOv8 deep learning model**.
+The app captures live camera frames, performs on-device inference, triggers real-time hazard alerts for other users, and stores hazard locations using **GPS and Firebase**.
 
 ---
 
 ## 📌 Features
-- 📷 Real-time road hazard detection
+- 📷 Real-time road hazard detection and Real-time alerts
 - 🕳 Detects **Potholes** and **Speed Breakers**
 - 🤖 YOLOv8 object detection model
 - 📍 GPS-based hazard location tagging
